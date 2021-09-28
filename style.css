@@ -15,4 +15,5 @@ body {
 
 button {
     margin:100px;
+    cursor:pointer;
 }
